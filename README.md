@@ -32,3 +32,6 @@ Contract Details
 
 Contract Address: [0x78c6cd6dd1ba4eccf3c2133762de8fab53b2110788ae4a6d7a82e09f4089d3ed]
 
+
+![Screenshot 2025-03-27 172515](https://github.com/user-attachments/assets/ac23fc17-0019-4617-95a8-734cc367f2c9)
+
