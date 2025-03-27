@@ -30,4 +30,5 @@ Development of a DAO to sustain long-term incentives and learning programs.
 
 Contract Details
 
-Contract Address: [Add Contract Address Here]
+Contract Address: [0x78c6cd6dd1ba4eccf3c2133762de8fab53b2110788ae4a6d7a82e09f4089d3ed]
+
